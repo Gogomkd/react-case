@@ -4,9 +4,9 @@ Instructions for usage
 
 clone the repo
 
-cd react-case-gi
-npm install
-npm start
+Step 1: cd react-case-gi
+Step 2: npm install
+Step 3: npm start
 
 Dependancy used
 
